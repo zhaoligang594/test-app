@@ -1,0 +1,41 @@
+/* span{
+    padding: 3px;
+} */
+.avatar{
+    width:100px;
+    height:100px;
+    margin: 5px auto;
+}
+.avatar-user{
+    text-align: center;
+    clear: both;
+    width: 100%;
+    margin: 10px auto;
+}
+
+.private-message{
+    text-align: center;
+    margin:5px auto;
+    width: 100%;
+}
+.desc-outer{
+    text-align: left;
+    padding: 5px;
+}
+
+.desc-item{
+    clear: both;
+    padding: 5px;
+}
+
+.user-message-p{
+    text-align: left;
+}
+.user-message-p span{
+    margin: 5px;
+}
+
+.user-message-p img{
+    width: 100%;
+    border-radius: 10px;
+}

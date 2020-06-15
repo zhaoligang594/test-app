@@ -1,0 +1,16 @@
+.Calendar-item{
+    /* padding: 5px; */
+}
+.ant-picker-calendar{
+    width: 100%;
+    
+}
+.ant-picker-panel{
+    width: 100%;
+}
+.ant-picker-calendar-header .ant-radio-group{ display:none }
+
+/* .site-card-wrapper {
+    background: #ececec;
+    padding: 30px;
+} */

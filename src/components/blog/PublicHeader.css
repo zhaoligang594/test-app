@@ -1,0 +1,44 @@
+
+.public-header-outer{
+    height: 64px;
+    width: 100%;
+    box-shadow: 1px 1px 1px #888888;
+    z-index: 100;
+    background-color: white;
+}
+
+.blog-title{
+    float:left;
+    line-height: 64px;
+    margin-left: 20px;
+}
+
+.blog-title h1 small{
+    font-size: 14px;
+    margin-left: 8px;
+}
+
+.blog-header-menu{
+    float: right;
+    line-height: 64px;
+}
+
+.blog-header-menu .menu-item{
+    text-align: center;
+    /* width: 35%; */
+    /* min-width: 120px; */
+    /* max-width: 120px; */
+    float: left;
+    margin-right: 30px;
+}
+
+.blog-header-menu .menu-item a{
+    color: black;
+    font-weight: bold;
+}
+
+.blog-header-menu .menu-item a:hover{
+    font-size:29px!important;
+    font-family: '楷体';
+    color:rgb(168, 151, 151);
+}

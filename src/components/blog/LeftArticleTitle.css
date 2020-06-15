@@ -1,0 +1,12 @@
+.left-article-title-parent{
+    /* position:fixed; */
+    width: inherit;
+    /* width:26.5%; */
+}
+
+.left-titles-item-a{
+    width: 100%;
+    clear: both;
+    margin: 0.5em auto;
+    font-size: 14px;
+}

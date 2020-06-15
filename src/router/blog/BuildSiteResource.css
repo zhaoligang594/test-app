@@ -1,0 +1,31 @@
+
+.build-site-resource-parent{
+    clear: both;
+}
+.build-site-resource-parent .item-p{
+    text-indent: 2em;
+    margin: 5px auto;
+    padding: 3px;
+}
+.build-site-resource-parent .item-title{
+    line-height: 18px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.build-site-resource-parent .item-title span{
+    font-weight: bold;
+    border-radius: 50%;
+}
+
+.build-site-resource-parent .message{
+    padding: 5px 3px;
+    margin: 5px auto;
+}
+
+.build-site-resource-parent .message div{
+    margin: 8px auto;
+}
+
+.build-site-resource-parent .message img{
+    width: 100%;
+}

@@ -1,0 +1,28 @@
+.ant-carousel .slick-slide {
+    width: 80%;
+    text-align: center;
+    height: 500px;
+    line-height: 160px;
+    background: #364d79;
+    /* overflow: hidden; */
+    display:"inline-block"
+  }
+  
+  .ant-carousel .slick-slide h3 {
+    color: #fff;
+  }
+
+  .item-card-image{
+      width: 100%;
+      height: 350px;
+
+  }
+
+  /* 图片的站住 */
+  .preView-img-item{
+
+    width: 100%;
+    height: 200px;
+    
+
+  }

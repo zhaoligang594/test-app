@@ -1,0 +1,57 @@
+.porpular-articles-message .site-collapse-custom-collapse-item{
+    background: #ffffff;
+    border-radius: 2px;
+    /* margin-bottom: 24px; */
+    border: 0px;
+    overflow: hidden;
+    text-overflow:ellipsis;
+}
+
+.site-collapse-custom-collapse-item .anticon{
+    display: none!important;
+}
+.porpular-articles-message{
+    text-align: left;
+}
+
+.porpular-articles-message span{
+    /* width: 100%; */
+    /* margin: 5px auto; */
+    margin-left: 10px;
+    float: left;
+}
+
+.porpular-articles-message .ant-collapse>.ant-collapse-item>.ant-collapse-header{
+    padding: 8px 0px;
+}
+
+.porpular-articles-message span span{
+    /* margin-left: 5px; */
+    /* border-radius: 50%; */
+    float: left;
+}
+
+.porpular-articles-message .ant-card-body{
+    padding: 3px;
+}
+
+.porpular-articles-message .article-ttem{
+    width: 100%;
+    /* line-height: 30px;
+    height: 30px; */
+    
+}
+.article-ttem .ant-tag{
+    border-radius: 50%;
+    float: left;
+}
+.article-ttem .article-ttem-message{
+    float: left;
+    /* width: 90%; */
+    overflow: hidden;
+    text-overflow:ellipsis;
+}
+
+.porpular-articles-message .article-ttem span{
+    margin-left: 5px;
+}

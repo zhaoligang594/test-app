@@ -1,0 +1,14 @@
+
+.tech-item{
+    float: left;
+    text-align: center;
+    width: 25%;
+}
+
+.tech-item svg{
+    width: 60%;
+    height:60%;
+}
+.item-p{
+    font-weight: bold;
+}

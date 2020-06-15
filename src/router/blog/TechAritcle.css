@@ -1,0 +1,39 @@
+.artical-message p{ 
+	text-indent:2em;
+    font-size:16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.artical-message ul{ 
+    margin-left: 2.5em;
+    font-size:16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nextinfo{
+    padding: 5px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.nextinfo p{
+    margin: 5px;
+    clear: both;
+    width: 100%;
+}
+.nextinfo p a{
+    margin-left: 8px;
+}
+
+.public-number-core{
+    background-color: #FAFAFA;
+    padding: 10px;
+    margin: 10px auto;
+}
+.public-number-core img{
+    width: 120px;
+    height: 120px;
+    margin-left: 12px;
+}
+.public-number-core p{
+    margin: 5px auto;
+}

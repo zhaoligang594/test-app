@@ -1,0 +1,8 @@
+.image-manage-upload-image{
+    text-align: center;
+}
+.image-manage-upload-image .item{
+    width: 100%;
+    clear: both;
+    margin: 5px auto;
+}

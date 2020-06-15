@@ -1,0 +1,40 @@
+.about-site-row{
+    margin: 5px auto;
+}
+.about-site-row h3{
+    width: 100%;
+    clear: both;
+}
+.about-site-row  p{
+    color: black;
+    font-size: 14px;
+}
+.tag-item{
+    clear: both;
+    margin: 5px 5px 5px 24px;
+}
+
+.tag-item span{
+    border-radius: 50%;
+}
+
+/* 站点信息 */
+.site-message-left{
+    width: 100%;
+    color: black;
+}
+
+.site-message-left div{
+    width: 100%;
+    clear: both;
+    margin: 3px;
+    padding: 3px;
+}
+.site-message-left div span{
+    font-weight: bold;
+}
+.site-message-left div img{
+    width: 150px;
+    height: 150px;
+    margin: 5px auto;
+}

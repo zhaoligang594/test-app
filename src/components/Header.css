@@ -1,0 +1,92 @@
+@media screen and (min-width: 4001px) {
+    .head_Top {width:100% ;height: 720px;background: antiquewhite;}
+}
+@media screen and (max-width: 4000px) {
+    .head_Top {width:100% ;height: 420px;background: antiquewhite;}
+}
+@media screen and (max-width: 2999px) {
+    .head_Top {width:100% ;height: 350px;background: antiquewhite;}
+}
+@media screen and (max-width: 2549px) {
+    .head_Top {width:100% ;height: 300px;background: antiquewhite;}
+
+}@media screen and (max-width: 2200px) {
+    .head_Top {width:100% ;height: 300px;background: antiquewhite;}
+}
+@media screen and (max-width: 1920px) {
+    .head_Top {width:100% ;height: 180px;background: antiquewhite;}
+}
+/* css 注释说明：设置了浏览器宽度不小于1201px时 head_Top 显示280px高度 */
+@media screen and (max-width: 1200px) {
+    .head_Top {width:100% ;height: 130px;background: antiquewhite;}
+}
+/* 设置了浏览器宽度不大于1200px时 head_Top 显示150px高度 */
+@media screen and (max-width: 900px) {
+    .head_Top {width:100% ;height: 95px;background: antiquewhite;}
+}
+/* 设置了浏览器宽度不大于900px时 head_Top 显示200px高度 */
+@media screen and (max-width: 500px) {
+    .head_Top {width:100% ;height: 40px;background: antiquewhite;}
+}
+.head_Top{
+    background: antiquewhite;
+    width: 100%;
+    height: 140px;
+}
+.head_TopIn{
+    width:62.5%;
+    height: 100%;
+    margin-left: 18%;
+    float: left;
+}
+.head_LeftContainer{
+    width: 20%;
+    height: 40%;
+    background-color: #282c34;
+    float: left;
+    margin-top: 3%;
+}
+.head_RightContainer{
+    margin-top: 2%;
+    width: 40%;
+    height: 50%;
+    float: right;
+    background-color: #61dafb;
+    opacity: 0.5;
+}
+.head_RightContainer .head_Item{
+    width:15%;
+    height: 30%;
+    margin-right: 8%;
+    background-color: #282c34;
+    float: left;
+    overflow: hidden;
+}
+.head_Input{
+    width: 60%;
+    height: 30%;
+    background-color: darkred;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.head_RightTwoContainer{
+    width: 15%;
+    height:16%;
+    background-color: #999999;
+    float: right;
+    margin-top: 1.2%;
+    margin-right: 3%;
+}
+.head_RightTwoContainer_Item1{
+    width: 40%;
+    height: 100%;
+    background-color: #61dafb;
+    float: left;
+    margin-right: 8%;
+}.head_RightTwoContainer_Item2{
+    width: 40%;
+    height: 100%;
+    background-color: #61dafb;
+    float: left;
+    margin-right: 8%;
+}
